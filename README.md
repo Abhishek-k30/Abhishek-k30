@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flight Booking Application<br>👯 I’m looking to collaborate on Web development Projects<br>🌱 I’m currently learning React JS
+🔭 I’m currently working on AI based SaaS Application<br>👯 I’m looking to collaborate on Web development Projects<br>🌱 I’m currently learning Next JS
 
 
 ## 🌐 Socials:
